@@ -38,6 +38,3 @@ $ pwned <email>
 - [Pipenv](https://github.com/kennethreitz/pipenv)
 - [requests](http://docs.python-requests.org/en/latest/)
 
-# License
-
-[MIT](http://en.wikipedia.org/wiki/MIT_License)
