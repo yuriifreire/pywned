@@ -1,9 +1,5 @@
 # Pwned
 
-[![Build Status](https://img.shields.io/travis/USER/REPO.svg)](https://travis-ci.org/yuriifreire/pywned)
-[![Github Issues](http://img.shields.io/github/issues/yuriifreire/pywned.svg?style=flat)](https://github.com/yuriifreire/pywned/issues?sort=updated&state=open)
-![None licensed]
-
 ![logo](logo.jpg)
 
 Check if you have an account that has been compromised in a data breach
